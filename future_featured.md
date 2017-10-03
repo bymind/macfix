@@ -3,7 +3,7 @@
 
 > ##### срок до `25.09.2017 12:00`
 > _Админка_
-> - [ ]  `Лог действий с тикетами` [тикет #90](https://macfix.ru/admin/bugtracker/ticket/90)
+> - [x]  `Лог действий с тикетами` [тикет #90](https://macfix.ru/admin/bugtracker/ticket/90)
 > - [ ]  `Добавить комментарии к тикетам` [тикет #79](https://macfix.ru/admin/bugtracker/ticket/79)
 > - [ ]  `Новая функция с шестеренкой` [тикет #78](https://macfix.ru/admin/bugtracker/ticket/78)
 #
