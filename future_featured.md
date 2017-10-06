@@ -9,7 +9,7 @@
 #
 > ##### срок до `25.09.2017 12:00`
 > _Публичка_
-> - [ ]  `Отзывы` [тикет #66](https://macfix.ru/admin/bugtracker/ticket/66)
+> - [x]  `Отзывы` [тикет #66](https://macfix.ru/admin/bugtracker/ticket/66)
 > - [ ]  `Переосмысление форм` [тикет #67](https://macfix.ru/admin/bugtracker/ticket/67)
 #
 > ##### срок до `06.10.2017 23:59`
